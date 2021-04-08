@@ -72,6 +72,7 @@ hr{
   position: absolute;
   bottom: 5px;
   right: 450px;
+  align-content: center;
 }
 
 .top-cloud {
